@@ -1,0 +1,5 @@
+brutal multi-kill focused mech
+evo from: knifeFighter
+weapon: Knife, extra limbs
+dash: scamper forward
+game changer: can eat while moving, after eating an enemy, get a stat boost. dashing while eating an enemy drops the enemy

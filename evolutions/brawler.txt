@@ -1,0 +1,4 @@
+simple fist-fighter style mech, higher defense, speed. Lower range (melee only)
+evo from: base form
+weapon: fists
+dash: roll forward, low i-frames

@@ -1,0 +1,5 @@
+light, unarmed fighter, focusing on rapid attacks and stun
+evo from: brawler
+weapon: force of will and open palm
+dash: roll forward moderate i-frames
+special: include stun in the kit somewhere

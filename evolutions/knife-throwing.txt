@@ -1,0 +1,5 @@
+mobile, posistioning focused fighter
+evo from: knifeFighter
+weapon: dual knives
+dash: roll forward, no i-frames
+special: throw knives, recall them, knives do damage to anything they pass through on their way to their target

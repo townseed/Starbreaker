@@ -1,0 +1,6 @@
+pacifist monk, evade and strike
+evo from: monk-type
+weapon: soul - open palm
+dash: dash forward leaving a trail of reflections (like moving your mouse cursor fast)
+special: stun
+game changing: instead of eating/uploading enemies, they are banished in a golden glow and give both xp and healing (although less than if you were to just do one)

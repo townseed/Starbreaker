@@ -1,0 +1,4 @@
+simple mech with a handgun for combat
+evo from: none
+weapon: serviceman pistol
+dash: medium with no i-frames

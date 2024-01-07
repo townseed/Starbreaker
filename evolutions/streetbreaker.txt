@@ -1,0 +1,5 @@
+heavy gauntlet fighter
+evo from: brawler
+weapon: massive gauntlet
+dash: slide forward, no i-frames
+special: use gauntlet as sheild?

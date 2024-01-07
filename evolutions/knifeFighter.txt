@@ -1,0 +1,4 @@
+light mech with knife-based combat focusing on speed
+evo from: brawler
+weapon: knife, bonus if it looks cool to use
+dash: roll forward, no i-frames
