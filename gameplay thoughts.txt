@@ -1,0 +1,51 @@
+more choices == better in most cases
+-choice to upload an enemy or consume it
+-choice to upgrage mech at milestone
+
+health is a bitch
+-have an actual health pool (not just 1 hit = 1 heart)
+--an actual health pool allows tank builds to exist and feel better
+--it also allows more granular adjustment of hp-damage ratios on enemies
+
+design decisions that make this unique
+-killed/downed enemies are a resource
+-the character evolves within a run
+-summons are exclusive to very specific mechs
+
+problems that are introduced by these decisions
+-how to prevent players from aquiring too many resourses (eating/uploading all enemies before moving on to the next thing)
+--this could slow the pace of the game too much
+-each mech needs to have eating and uploading animations
+-more evolutions means that each evolution might stick out less/be less recognizable
+-building combos for (each?) evolution will be a lot of work, but will also be really cool
+-leveling between evolutions can give stats or something? - should there be more levels than mech evolutions?
+-should forgoing an evo allow your mech to upgrade itself in some other way? Or should it provide metagame bonuses (extra money in hub or whatever)
+
+difficulty systems - how does the game become more/less difficult
+pristige (like ror2) is good, maybe not the best though
+modifiers (additional enemy spawns, more damage taken, etc) might be a good addition
+more spawns is a good (ish) option, although better enemies/ai is better than more of them (1 smart enemy > 10 dumb ones)
+
+boss battles need to be epic/worth remembering otherwise there's not really a point to having them
+
+metagame center (spacerig/town/ship)
+-upgrades?
+-cosmetics
+-story?
+-a better look at the mechs that you can play as
+-to start a run you go into the cockpit/tube
+
+the dash key can be used as a seige/unsige key
+
+flying player-controlled characters might not work very well, use walkers with flying compainions if flyers are needed.
+
+level design
+-room-based (like soul knight or Hades)
+--levels (soul knight) or endless (bubble tanks)
+-map based (like hyperlight drifter)
+--this might be interisting to make as a side thing or something?
+-infinite map based (like vampire survivors)
+
+deaths/game over
+-eject the pilot from the mech in the same cockpit/tube that you go into to start the game
+-final boss could subvert this expectaion
